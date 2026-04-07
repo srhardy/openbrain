@@ -1,5 +1,9 @@
 # OpenBrain
 
+⚠️ Project Archived
+This project is no longer maintained and no further updates or support will be provided.
+The repository remains available for reference.
+
 ![ci status](https://github.com/svange/openbrain/actions/workflows/pipeline.yaml/badge.svg?branch=main)
 ![ci status](https://github.com/svange/openbrain/actions/workflows/pipeline.yaml/badge.svg?branch=dev)
 
